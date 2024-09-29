@@ -1,4 +1,5 @@
 # Hi, I'm Jakub Laska 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Jakub-Laska&color=brightgreen)
 
 ### About Me:
 - 🎓 Linguistics in Business graduate.
@@ -12,8 +13,6 @@
 - Team communication, time management
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakub-Laska&theme=highcontrast)
-![Profile Views](https://komarev.com/ghpvc/?username=Jakub-Laska&color=brightgreen)
-![3D Contributions](https://github.com/Jakub-Laska/JakubLaska/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Contact:
 - 📧 [jakub.laska1911@gmail.com](mailto:jakub.laska1911@gmail.com)
