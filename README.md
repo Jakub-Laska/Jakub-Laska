@@ -7,7 +7,7 @@
 - 🌱 Currently learning JavaScript and expanding my coding knowledge.
 
 ### Skills:
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Jest
 - Figma, Canva, gimp
 - MS Office
 - Team communication, time management
