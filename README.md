@@ -1,4 +1,4 @@
-# Hi, I'm Jakub Laska 👋
+# Hi, I'm Kuba 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=Jakub-Laska&color=brightgreen)
 
 ### About Me:
