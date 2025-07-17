@@ -12,7 +12,7 @@
 - MS Office
 - Team communication, time management
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakub-Laska&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jakub-Laska)](https://git.io/streak-stats)
 
 ### Contact:
 - 📧 [jakub.laska1911@gmail.com](mailto:jakub.laska1911@gmail.com)
