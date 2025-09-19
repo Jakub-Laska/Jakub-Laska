@@ -71,5 +71,6 @@ Classic Hangman with random word selection and game logic.
 
 For professional inquiries or collaborations, reach me at:  
 **[jakub.laska1911@gmail.com](mailto:jakub.laska1911@gmail.com)**
+<br>
 **[LinkedIn](https://www.linkedin.com/in/jakub-laska02)**
 
