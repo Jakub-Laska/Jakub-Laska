@@ -28,7 +28,7 @@ I’m also leveling up my <b>UI/UX design</b> skills with tools like <b>Figma</b
 ### [![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-%23007ACC?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/Jakub-Laska/bmi-calculator)  
 A user-friendly BMI calculator with responsive design optimized for mobile and desktop.
 
-### [![Tic-Tac-Toe Game](https://img.shields.io/badge/Tic--Tac--Toe-%230073e6?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/Jakub-Laska/tic-tac-toe)  
+### [![Tic Tac Toe Game](https://img.shields.io/badge/Tic--Tac--Toe-%230073e6?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/Jakub-Laska/tic-tac-toe)  
 Classic Tic-Tac-Toe with alternating turns, win/draw detection, and reset option.
 
 ### [![Small Library App](https://img.shields.io/badge/Small%20Library-%23005fc1?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jakub-Laska/small-library-app)  
@@ -37,10 +37,10 @@ A functional book management app — add, remove, and mark books as read.
 ### [![Admin Dashboard](https://img.shields.io/badge/Admin%20Dashboard-%230064d8?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Jakub-Laska/Project-Admin-Dashboard)  
 Responsive dashboard with clean layout, intuitive navigation, and accessibility.
 
-### [![Etch-a-Sketch](https://img.shields.io/badge/Etch--a--Sketch-%230061c4?style=for-the-badge&logo=pencil&logoColor=white)](https://github.com/Jakub-Laska/etch-a-sketch)  
+### [![Etch a Sketch](https://img.shields.io/badge/Etch--a--Sketch-%230061c4?style=for-the-badge&logo=pencil&logoColor=white)](https://github.com/Jakub-Laska/etch-a-sketch)  
 Interactive drawing board with grid customization and mouse/touch support.
 
-### [![Rock-Paper-Scissors Game](https://img.shields.io/badge/Rock-Paper-Scissors-%230063c9?style=for-the-badge&logo=rocketchat&logoColor=white)](https://github.com/Jakub-Laska/Rock-Paper-Scissors)  
+### [![Rock Paper Scissors Game](https://img.shields.io/badge/Rock-Paper-Scissors-%230063c9?style=for-the-badge&logo=rocketchat&logoColor=white)](https://github.com/Jakub-Laska/Rock-Paper-Scissors)  
 Browser game with real-time score tracking and dynamic logic handling.
 
 ### [![Cat Memory Game](https://img.shields.io/badge/Cat%20Memory%20Game-%230055ba?style=for-the-badge&logo=cat&logoColor=white)](https://github.com/Jakub-Laska/cat-game)  
