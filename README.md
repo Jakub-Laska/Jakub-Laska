@@ -14,7 +14,7 @@ I’m also leveling up my <b>UI/UX design</b> skills with tools like <b>Figma</b
 
 <hr style="border:0; height:1px; background:linear-gradient(90deg,#4a90e2,#0f74f1,#3a8dff);">
 
-## <img src="https://img.shields.io/badge/-Skills-0f74f1?style=flat&logo=devicon&logoColor=ffffff" width="24" style="margin-right:8px;"/> Technical Skills
+## Technical Skills
 
 - **Frontend Development**: HTML5, CSS3, JavaScript. Building simple, responsive, and functional interfaces. Learning **Vue.js**, preparing for **React**.  
 - **Design & Prototyping**: Figma, Canva, GIMP. Exploring **Spline** for 3D/interactive graphics.  
@@ -23,7 +23,7 @@ I’m also leveling up my <b>UI/UX design</b> skills with tools like <b>Figma</b
 
 <hr style="border:0; height:1px; background:linear-gradient(90deg,#4a90e2,#0f74f1,#3a8dff);">
 
-## <img src="https://img.shields.io/badge/-Projects-0f74f1?style=flat&logo=github&logoColor=ffffff" width="24" style="margin-right:8px;"/> Projects Highlights
+## Projects Highlights
 
 ### [![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-%23007ACC?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/Jakub-Laska/bmi-calculator)  
 A user-friendly BMI calculator with responsive design optimized for mobile and desktop.
@@ -51,7 +51,7 @@ Classic Hangman with random word selection and game logic.
 
 <hr style="border:0; height:1px; background:linear-gradient(90deg,#4a90e2,#0f74f1,#3a8dff);">
 
-## <img src="https://img.shields.io/badge/-GitHub-0f74f1?style=flat&logo=git&logoColor=ffffff" width="24" style="margin-right:8px;"/> GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jakub-Laska&theme=gradient&hide_border=true&border_radius=10&background=00000000&ring=4a90e2&fire=0f74f1&currStreakLabel=ffffff&sideLabels=91caff" alt="GitHub Streak"/>
@@ -67,7 +67,7 @@ Classic Hangman with random word selection and game logic.
 
 <hr style="border:0; height:1px; background:linear-gradient(90deg,#4a90e2,#0f74f1,#3a8dff);">
 
-## <img src="https://img.shields.io/badge/-Contact-0f74f1?style=flat&logo=mail&logoColor=ffffff" width="24" style="margin-right:8px;"/> Contact
+## Contact
 
 For professional inquiries or collaborations, reach me at:  
 **[jakub.laska1911@gmail.com](mailto:jakub.laska1911@gmail.com)**
