@@ -44,6 +44,10 @@ On the design side, I use **Figma** for prototyping and explore **Spline** for 3
   <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Laska&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=4a90e2&text_color=ffffff&icon_color=3a8dff&count_private=true" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Laska&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=0f74f1&text_color=ffffff" alt="Top Languages"/>
+</p>
+
 ---
 
 ## Contact
