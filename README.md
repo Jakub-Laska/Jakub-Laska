@@ -4,7 +4,7 @@
 
 # Hey, I'm Jakub Laska
 
-> 🌐 **[jl-portfolio-dev.vercel.app](https://jl-portfolio-dev.vercel.app/)**
+> 🌐 **[Check out my portfolio](https://jl-portfolio-dev.vercel.app/)**
 
 Self-taught frontend developer since 2023. I build projects — from games to practical tools — to learn by doing.  
 My foundation is **HTML**, **CSS**, and **JavaScript**. Currently working with **Vue.js** and getting into **React**.  
