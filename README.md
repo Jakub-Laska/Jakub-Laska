@@ -53,6 +53,11 @@ On the design side, I use **Figma** for prototyping and explore **Spline** for 3
 ## Contact
 
 [jakub.laska1911@gmail.com](mailto:jakub.laska1911@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jakub-laska02)
+<pre>
+cdn
+nie
+sen
+<pre>
 
 <!-- 
 _______/\\\\\\\_______/\\\_____________        
