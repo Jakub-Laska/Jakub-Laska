@@ -37,15 +37,15 @@ On the design side, I use **Figma** for prototyping and explore **Spline** for 3
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jakub-Laska&theme=gradient&hide_border=true&border_radius=10&background=00000000&ring=4a90e2&fire=0f74f1&currStreakLabel=ffffff&sideLabels=91caff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jakub-Laska&theme=gradient&hide_border=true&border_radius=10&background=00000000&color=dbeafe&ring=4a90e2&fire=0f74f1&currStreakLabel=ffffff&sideLabels=91caff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Laska&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=4a90e2&text_color=ffffff&icon_color=3a8dff&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Laska&show_icons=true&theme=transparent&hide_border=true&bg_color=dbeafe&title_color=4a90e2&text_color=ffffff&icon_color=3a8dff&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Laska&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=0f74f1&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Laska&layout=compact&theme=transparent&hide_border=true&bg_color=dbeafe&title_color=0f74f1&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
