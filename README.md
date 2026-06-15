@@ -37,7 +37,7 @@ On the design side, I use **Figma** for prototyping and explore **Spline** for 3
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jakub-Laska&theme=gradient&hide_border=true&border_radius=10&background=00000000&color=0000FF80&ring=4a90e2&fire=0f74f1&currStreakLabel=ffffff&sideLabels=91caff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jakub-Laska&hide_border=true&border_radius=10&background=00000000&color=dbeafe&ring=4a90e2&fire=0f74f1&currStreakLabel=ffffff&sideLabels=91caff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
